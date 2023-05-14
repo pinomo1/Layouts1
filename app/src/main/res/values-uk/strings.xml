@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моє Приложення</string>
+    <string name="hello_world">Вітаю Світ!</string>
+    <string name="on_click">Натисни на мене!</string>
+</resources>
